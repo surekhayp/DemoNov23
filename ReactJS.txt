@@ -1,0 +1,2 @@
+ReactJS is a JS based UI library for creating Views
+ Only in a SPA
