@@ -1,0 +1,2 @@
+TYpescript is super set of JS .
+A OOP based scripting language
